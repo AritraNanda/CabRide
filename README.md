@@ -1,3 +1,6 @@
+
+I have noticed few issues in the deplayed version while it doesn't appear while running on localhost as I have used local memory concept. To get complete demonstration, run it on local system.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
